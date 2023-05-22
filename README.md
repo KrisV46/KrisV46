@@ -1,5 +1,6 @@
 ### Hi there 👋
 Cybersecurity student at Technical University Sofia.
+- 🌱 I’m currently learning C  
 <!--
 **KrisV46/KrisV46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
