@@ -8,7 +8,7 @@ I am a cybersecurity student in Technical University of Sofia.
 * 🧠  I'm learning currently learning - C
 * ⚡  Always open to learn new things
 
-### Skills
+### Skills:
 
 
 <p align="left">
@@ -17,6 +17,6 @@ I am a cybersecurity student in Technical University of Sofia.
 </p>
 
 
-### Socials
+### Socials:
 
 <p align="left"> <a href="https://www.facebook.com/krisko.voinov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/KrisV46" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_voinov.k_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kristian-voinov-1ba661275" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
