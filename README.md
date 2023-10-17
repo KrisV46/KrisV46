@@ -5,7 +5,7 @@ I am a cybersecurity student in Technical University of Sofia.
 
 * 🌍  I'm based in Sofia, Bulgaria.
 * ✉️  You can contact me at [krisivoinov@gmail.com](mailto:krisivoinov@gmail.com)
-* 🧠  I'm currently learning - C
+* 🧠  I'm currently learning - Java
 * ⚡  Always open to learn new things
 
 ### Skills:
